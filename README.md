@@ -35,4 +35,4 @@ Disadvantages: It's risky when the application is big and  when the existing cod
 
 2-How do these pros and cons apply to refactoring the original VBA script?
 
-The refactored code executed faster than the original code but if the orginal code isn't fully understood, it will create errors. 
+The refactored code executed faster than the original code but if the orginal code isn't fully understood, it will create errors.
