@@ -14,7 +14,7 @@ TickerIndex variable is created to access the correct index across four differen
 #### Refactored code
 
 ![image](https://user-images.githubusercontent.com/84524153/122627964-1f55b000-d081-11eb-8ce5-3781c1fbbec5.png)
-![refactoredcode2](https://user-images.githubusercontent.com/84524153/122627971-372d3400-d081-11eb-89e8-e66ff9897168.png)
+
 
 The refactored code execution time is less for year 2017 and 2018 than original code run time for 2017 and 2018.
 ##### Refactored code Runtime
