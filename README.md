@@ -9,7 +9,7 @@ To analyze different stocks data throughout multiple years to see which stocks p
 ## Results
 ### Refactored script
 Refactoring is a coding process to make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier to read.
-TickerIndex variable is created to access the correct index across four different arrays:ticker array, tickervolumes,tickerstartingprice and tickerendingprice, iterating over all the rows.
+TickerIndex variable is created to access the correct index across four different arrays: ticker array, tickerVolumes,tickerStartingprice and tickerEndingprice, iterating over all the rows.
 
 #### Refactored code
 
@@ -23,12 +23,13 @@ The refactored code execution time is less for year 2017 and 2018 than original 
 ##### Original code Runtime
 ![original code(runtime)-2017](https://user-images.githubusercontent.com/84524153/122628252-1665de00-d083-11eb-8a56-277a85b6f184.png)
 ![original code(runtime)-2018](https://user-images.githubusercontent.com/84524153/122628082-0d284180-d082-11eb-8adb-ab1e53ba51be.png)
-## Summary
-The stocks performed better in 2017 than in 2018
+
+##### The stocks performed better in 2017 than in 2018
 
 ![2017-stocks](https://user-images.githubusercontent.com/84524153/122628397-c9ced280-d083-11eb-8502-4041c1c32fd9.png)
 ![2018-stocks](https://user-images.githubusercontent.com/84524153/122628399-ce938680-d083-11eb-8562-e1ad868144c8.png)
 
+## Summary
 ###### 1-What are the advantages or disadvantages of refactoring code?
 
 Advantages: Refactoring is good  to maintain the code. It makes the code clean and organized.
